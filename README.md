@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **more web development related projects**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** **JS**
 
 - 📫 How to reach me **raunitkumar1802@gmail.com**
 
-- ⚡ Fun fact **I think I am patriotic .**
+- ⚡ Fun fact **I think I am funny .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
